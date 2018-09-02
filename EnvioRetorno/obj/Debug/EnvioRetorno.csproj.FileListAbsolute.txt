@@ -1,0 +1,11 @@
+C:\Users\uu\source\repos\EnvioRetorno\EnvioRetorno\bin\Debug\EnvioRetorno.exe.config
+C:\Users\uu\source\repos\EnvioRetorno\EnvioRetorno\bin\Debug\EnvioRetorno.exe
+C:\Users\uu\source\repos\EnvioRetorno\EnvioRetorno\bin\Debug\EnvioRetorno.pdb
+C:\Users\uu\source\repos\EnvioRetorno\EnvioRetorno\obj\Debug\EnvioRetorno.csprojResolveAssemblyReference.cache
+C:\Users\uu\source\repos\EnvioRetorno\EnvioRetorno\obj\Debug\EnvioRetorno.frm1.resources
+C:\Users\uu\source\repos\EnvioRetorno\EnvioRetorno\obj\Debug\EnvioRetorno.frm2.resources
+C:\Users\uu\source\repos\EnvioRetorno\EnvioRetorno\obj\Debug\EnvioRetorno.Properties.Resources.resources
+C:\Users\uu\source\repos\EnvioRetorno\EnvioRetorno\obj\Debug\EnvioRetorno.csproj.GenerateResource.cache
+C:\Users\uu\source\repos\EnvioRetorno\EnvioRetorno\obj\Debug\EnvioRetorno.csproj.CoreCompileInputs.cache
+C:\Users\uu\source\repos\EnvioRetorno\EnvioRetorno\obj\Debug\EnvioRetorno.exe
+C:\Users\uu\source\repos\EnvioRetorno\EnvioRetorno\obj\Debug\EnvioRetorno.pdb
